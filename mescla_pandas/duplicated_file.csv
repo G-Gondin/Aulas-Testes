@@ -1,0 +1,1074 @@
+Name,Region,City,Age
+Diana,North,New York,28
+Charlie,West,New York,55
+Grace,North,Los Angeles,65
+Grace,East,Philadelphia,68
+Frank,North,Chicago,30
+Hannah,South,New York,31
+Diana,East,New York,34
+Jack,West,Phoenix,33
+Charlie,South,San Antonio,29
+Bob,North,San Antonio,33
+Hannah,East,New York,36
+Diana,West,Chicago,26
+Ivy,East,San Antonio,31
+Diana,East,San Antonio,62
+Ivy,East,New York,60
+Grace,South,Houston,65
+Jack,West,Dallas,34
+Hannah,West,Houston,32
+Ivy,North,San Antonio,21
+Frank,North,Houston,66
+Ivy,South,Los Angeles,35
+Eve,East,New York,64
+Hannah,East,Philadelphia,45
+Grace,West,New York,60
+Eve,South,Los Angeles,57
+Bob,South,Dallas,21
+Jack,South,Chicago,60
+Eve,East,San Antonio,53
+Bob,North,Chicago,32
+Alice,South,San Jose,26
+Grace,North,Houston,48
+Grace,West,San Antonio,22
+Grace,South,San Jose,52
+Grace,East,Houston,57
+Grace,East,Phoenix,39
+Frank,West,San Diego,26
+Ivy,North,New York,70
+Diana,West,Philadelphia,23
+Alice,North,Houston,68
+Alice,South,San Jose,52
+Charlie,North,Houston,58
+Charlie,East,Phoenix,61
+Frank,West,New York,34
+Diana,South,Chicago,70
+Hannah,North,Houston,65
+Charlie,North,Phoenix,53
+Hannah,East,San Diego,59
+Bob,West,San Diego,50
+Jack,North,Chicago,35
+Diana,North,San Diego,51
+Frank,South,Phoenix,55
+Jack,South,Houston,66
+Bob,North,Houston,62
+Hannah,East,San Antonio,19
+Alice,South,San Jose,68
+Eve,South,San Antonio,39
+Bob,West,Philadelphia,24
+Eve,West,Houston,33
+Alice,North,Chicago,68
+Ivy,North,San Jose,20
+Bob,West,Chicago,61
+Hannah,West,New York,53
+Hannah,North,San Jose,25
+Frank,North,Phoenix,55
+Jack,North,Los Angeles,45
+Charlie,North,San Diego,56
+Jack,West,Dallas,31
+Diana,West,Houston,40
+Alice,West,Phoenix,52
+Hannah,North,Philadelphia,23
+Alice,South,San Diego,70
+Jack,North,Phoenix,25
+Hannah,South,Dallas,26
+Eve,South,New York,37
+Grace,East,Chicago,67
+Jack,East,San Antonio,42
+Bob,East,San Diego,56
+Hannah,East,Dallas,28
+Grace,South,Chicago,22
+Charlie,South,San Diego,29
+Diana,West,San Antonio,57
+Eve,West,San Antonio,27
+Frank,North,Chicago,47
+Charlie,East,San Jose,68
+Bob,West,San Diego,37
+Grace,South,Houston,27
+Grace,West,San Jose,42
+Bob,North,Dallas,31
+Diana,West,Los Angeles,40
+Jack,South,San Diego,33
+Bob,West,Philadelphia,43
+Alice,West,Philadelphia,58
+Jack,West,Dallas,67
+Alice,East,San Diego,52
+Ivy,North,Dallas,52
+Ivy,East,Houston,57
+Eve,East,New York,41
+Frank,South,Dallas,58
+Ivy,South,Los Angeles,45
+Frank,South,Dallas,59
+Diana,South,Philadelphia,61
+Grace,South,New York,64
+Bob,East,Dallas,19
+Bob,East,San Diego,65
+Hannah,West,Dallas,57
+Hannah,West,Philadelphia,41
+Hannah,East,Phoenix,22
+Ivy,East,Dallas,47
+Hannah,East,Philadelphia,45
+Bob,North,Philadelphia,46
+Eve,West,Phoenix,47
+Hannah,West,San Diego,30
+Bob,North,Phoenix,67
+Diana,North,New York,49
+Grace,South,Chicago,20
+Eve,South,New York,57
+Charlie,East,Dallas,43
+Alice,West,San Diego,68
+Eve,West,San Jose,49
+Ivy,North,San Antonio,65
+Jack,North,San Diego,38
+Charlie,East,San Jose,49
+Grace,West,San Antonio,31
+Jack,South,Los Angeles,55
+Eve,East,Philadelphia,42
+Bob,East,San Antonio,64
+Hannah,East,Dallas,57
+Jack,East,Philadelphia,49
+Charlie,South,San Jose,39
+Frank,East,Chicago,30
+Charlie,West,San Diego,64
+Eve,West,San Jose,70
+Jack,North,Los Angeles,42
+Frank,East,Philadelphia,48
+Alice,West,Chicago,26
+Ivy,West,New York,68
+Bob,South,San Diego,20
+Ivy,South,Phoenix,30
+Frank,South,Chicago,29
+Charlie,North,San Antonio,51
+Ivy,West,Philadelphia,34
+Grace,East,Chicago,19
+Frank,North,New York,41
+Diana,East,Chicago,31
+Alice,North,New York,35
+Diana,West,Chicago,58
+Alice,West,Phoenix,39
+Eve,West,San Antonio,29
+Frank,West,Dallas,57
+Grace,East,San Diego,61
+Eve,West,San Diego,30
+Bob,North,San Jose,28
+Diana,West,Dallas,49
+Eve,West,Phoenix,41
+Jack,East,San Antonio,53
+Grace,West,Phoenix,25
+Frank,North,San Antonio,47
+Bob,South,San Diego,20
+Alice,West,San Antonio,35
+Frank,North,San Antonio,36
+Hannah,West,Phoenix,58
+Charlie,North,San Diego,56
+Diana,East,Houston,33
+Hannah,West,New York,20
+Eve,East,San Antonio,19
+Eve,West,Philadelphia,57
+Frank,South,Philadelphia,54
+Alice,South,Philadelphia,58
+Grace,South,Los Angeles,57
+Frank,South,Houston,54
+Grace,North,Dallas,58
+Charlie,East,Dallas,28
+Eve,West,San Diego,65
+Charlie,East,San Diego,46
+Alice,South,Chicago,33
+Hannah,South,Philadelphia,24
+Alice,North,San Antonio,25
+Bob,North,San Antonio,20
+Grace,North,San Diego,50
+Frank,West,Houston,70
+Frank,South,Los Angeles,35
+Bob,North,Chicago,64
+Bob,West,Los Angeles,39
+Charlie,North,Dallas,45
+Frank,East,Houston,45
+Diana,South,San Antonio,33
+Alice,South,Chicago,36
+Charlie,North,Los Angeles,63
+Ivy,West,Dallas,21
+Diana,East,Houston,22
+Alice,South,Houston,61
+Hannah,East,San Jose,58
+Bob,East,San Diego,56
+Alice,South,San Antonio,28
+Diana,East,Los Angeles,67
+Jack,South,New York,56
+Diana,North,Dallas,39
+Hannah,West,San Antonio,62
+Alice,East,Phoenix,57
+Eve,West,Dallas,51
+Eve,South,Chicago,38
+Diana,East,San Diego,66
+Charlie,West,New York,34
+Charlie,North,New York,35
+Frank,East,Houston,68
+Bob,North,Dallas,24
+Grace,East,New York,29
+Bob,East,Chicago,40
+Diana,West,San Diego,45
+Charlie,South,San Jose,20
+Jack,West,San Antonio,24
+Frank,South,New York,32
+Eve,South,San Diego,19
+Grace,South,New York,34
+Charlie,West,San Antonio,57
+Frank,North,Chicago,25
+Alice,West,Chicago,20
+Diana,West,Dallas,47
+Bob,North,Phoenix,30
+Grace,West,San Antonio,29
+Alice,East,Los Angeles,66
+Grace,North,Los Angeles,33
+Alice,East,San Jose,25
+Grace,South,New York,48
+Grace,South,San Jose,27
+Eve,South,Los Angeles,39
+Diana,West,Dallas,19
+Eve,West,Philadelphia,57
+Grace,North,New York,69
+Frank,South,Houston,25
+Bob,West,Houston,51
+Charlie,North,San Jose,21
+Charlie,East,Houston,68
+Frank,East,Chicago,49
+Eve,West,New York,33
+Eve,South,San Diego,58
+Charlie,North,San Jose,44
+Diana,South,Phoenix,33
+Bob,South,San Diego,66
+Frank,West,San Jose,60
+Diana,West,Philadelphia,63
+Eve,West,Houston,52
+Grace,East,New York,57
+Eve,West,Houston,23
+Eve,West,Chicago,55
+Jack,West,San Jose,69
+Eve,North,New York,63
+Hannah,West,New York,35
+Grace,South,Houston,48
+Charlie,East,New York,26
+Alice,West,San Jose,24
+Bob,South,Dallas,59
+Ivy,East,San Diego,51
+Grace,East,Phoenix,38
+Hannah,West,San Antonio,62
+Jack,South,San Antonio,55
+Charlie,East,Los Angeles,51
+Hannah,East,Dallas,57
+Frank,West,San Diego,49
+Diana,North,San Diego,45
+Hannah,East,Houston,56
+Bob,North,San Jose,47
+Alice,North,Los Angeles,68
+Hannah,South,Philadelphia,57
+Alice,North,Philadelphia,22
+Grace,North,Chicago,69
+Hannah,North,San Antonio,34
+Ivy,North,San Diego,66
+Eve,West,San Diego,56
+Charlie,North,Philadelphia,20
+Frank,South,Phoenix,24
+Charlie,North,San Diego,42
+Hannah,North,Dallas,66
+Hannah,West,San Diego,37
+Bob,East,San Diego,34
+Frank,South,Chicago,42
+Ivy,East,New York,51
+Jack,East,Philadelphia,54
+Grace,East,San Jose,60
+Grace,North,Houston,50
+Charlie,East,San Jose,32
+Ivy,South,Los Angeles,49
+Diana,East,New York,44
+Alice,North,Philadelphia,21
+Bob,South,Chicago,63
+Charlie,East,New York,39
+Jack,North,New York,40
+Ivy,West,San Antonio,31
+Grace,East,Philadelphia,22
+Diana,North,Los Angeles,56
+Diana,East,Chicago,32
+Eve,West,Chicago,22
+Ivy,East,Phoenix,38
+Alice,West,Los Angeles,50
+Bob,South,San Antonio,24
+Diana,North,New York,18
+Hannah,South,Chicago,18
+Diana,South,Houston,38
+Eve,East,Los Angeles,32
+Eve,South,Dallas,58
+Eve,West,Phoenix,54
+Diana,North,Dallas,50
+Jack,East,San Antonio,28
+Charlie,West,Houston,30
+Alice,North,Dallas,67
+Hannah,West,Phoenix,69
+Hannah,East,Philadelphia,41
+Jack,North,San Diego,63
+Ivy,West,Houston,57
+Alice,North,San Antonio,50
+Grace,West,Chicago,62
+Hannah,West,New York,35
+Bob,East,San Jose,56
+Jack,East,San Antonio,20
+Jack,South,New York,67
+Jack,West,Phoenix,45
+Eve,West,New York,65
+Frank,South,Phoenix,51
+Diana,North,San Jose,27
+Bob,South,Philadelphia,25
+Grace,North,Philadelphia,38
+Charlie,West,New York,66
+Jack,West,Chicago,33
+Hannah,North,Philadelphia,48
+Ivy,East,Philadelphia,53
+Alice,West,Philadelphia,27
+Hannah,North,Los Angeles,36
+Jack,West,San Jose,39
+Grace,North,Phoenix,48
+Diana,South,San Diego,38
+Bob,East,San Jose,50
+Hannah,West,San Diego,56
+Eve,West,New York,51
+Charlie,West,New York,41
+Bob,West,Chicago,54
+Hannah,South,Houston,26
+Grace,West,Los Angeles,37
+Hannah,East,Philadelphia,37
+Hannah,West,New York,51
+Ivy,East,Los Angeles,25
+Hannah,West,Houston,41
+Grace,West,Dallas,64
+Diana,North,San Antonio,37
+Ivy,South,Los Angeles,35
+Charlie,East,San Antonio,43
+Hannah,South,San Diego,58
+Bob,South,New York,36
+Hannah,South,San Diego,38
+Frank,South,Dallas,21
+Frank,South,San Jose,45
+Alice,South,Los Angeles,57
+Hannah,West,Houston,28
+Jack,West,Los Angeles,67
+Grace,South,Chicago,62
+Bob,West,New York,36
+Ivy,North,Houston,70
+Hannah,West,Philadelphia,36
+Diana,East,San Diego,65
+Frank,West,New York,66
+Alice,South,San Diego,33
+Grace,South,San Jose,53
+Jack,West,Dallas,24
+Diana,West,Dallas,67
+Bob,East,Houston,42
+Alice,North,New York,70
+Frank,North,New York,57
+Charlie,North,Chicago,21
+Ivy,West,Chicago,27
+Grace,North,San Antonio,53
+Hannah,South,New York,50
+Jack,East,San Diego,24
+Ivy,West,Philadelphia,63
+Jack,North,San Diego,19
+Eve,South,Chicago,34
+Charlie,West,San Jose,69
+Bob,West,Phoenix,61
+Frank,East,New York,59
+Eve,East,Phoenix,69
+Diana,East,Dallas,27
+Jack,East,Los Angeles,30
+Ivy,North,San Antonio,25
+Jack,South,San Jose,37
+Diana,West,San Jose,70
+Diana,South,Los Angeles,64
+Diana,South,Philadelphia,35
+Charlie,North,Los Angeles,40
+Ivy,South,Los Angeles,36
+Grace,North,Chicago,29
+Charlie,South,Chicago,33
+Hannah,North,San Antonio,60
+Eve,North,Philadelphia,25
+Jack,South,Los Angeles,34
+Ivy,South,Houston,23
+Bob,North,Phoenix,57
+Frank,West,San Jose,59
+Eve,West,Phoenix,54
+Bob,West,Philadelphia,38
+Ivy,East,Chicago,31
+Hannah,West,Los Angeles,55
+Grace,North,San Antonio,29
+Alice,West,San Antonio,34
+Hannah,West,San Antonio,67
+Diana,South,Phoenix,52
+Diana,West,Houston,63
+Grace,South,San Diego,28
+Alice,East,San Jose,28
+Jack,North,New York,24
+Bob,North,Los Angeles,23
+Hannah,West,Chicago,20
+Charlie,East,New York,49
+Jack,North,Houston,48
+Frank,West,San Jose,26
+Charlie,East,New York,49
+Eve,North,New York,28
+Charlie,North,San Jose,34
+Bob,South,Los Angeles,37
+Grace,West,San Antonio,47
+Charlie,South,Dallas,30
+Frank,West,Dallas,54
+Alice,West,San Antonio,34
+Hannah,West,San Diego,19
+Ivy,West,Chicago,59
+Charlie,East,Dallas,45
+Charlie,North,Los Angeles,34
+Eve,North,San Antonio,69
+Alice,East,Los Angeles,41
+Alice,South,Philadelphia,48
+Eve,North,San Antonio,28
+Jack,West,Dallas,31
+Grace,South,San Jose,52
+Alice,North,Chicago,35
+Charlie,West,New York,39
+Eve,East,Chicago,61
+Frank,East,Dallas,25
+Jack,West,New York,44
+Frank,South,Chicago,29
+Jack,West,Chicago,55
+Jack,West,San Jose,30
+Grace,South,Chicago,30
+Charlie,North,Phoenix,57
+Diana,West,Phoenix,59
+Jack,East,Philadelphia,19
+Diana,West,Dallas,67
+Grace,East,Chicago,34
+Hannah,West,Phoenix,61
+Alice,East,Chicago,49
+Frank,South,Houston,20
+Eve,West,Chicago,68
+Ivy,South,Houston,55
+Eve,South,New York,70
+Jack,North,San Antonio,65
+Hannah,North,Philadelphia,36
+Charlie,North,Los Angeles,40
+Hannah,North,Chicago,70
+Eve,South,Dallas,28
+Alice,East,Dallas,54
+Hannah,North,New York,49
+Hannah,East,Dallas,55
+Diana,East,Houston,46
+Hannah,North,Los Angeles,36
+Ivy,East,Chicago,33
+Jack,South,New York,56
+Eve,South,Houston,45
+Jack,West,Los Angeles,50
+Frank,South,Los Angeles,50
+Frank,South,Houston,54
+Grace,North,San Diego,35
+Ivy,East,San Diego,29
+Grace,North,Phoenix,35
+Jack,North,Dallas,19
+Eve,North,Phoenix,24
+Hannah,South,San Jose,66
+Ivy,West,San Antonio,34
+Ivy,East,Philadelphia,30
+Eve,North,San Diego,29
+Eve,West,San Diego,65
+Grace,North,San Jose,51
+Eve,North,Phoenix,70
+Grace,North,Philadelphia,53
+Hannah,East,Dallas,62
+Ivy,South,San Antonio,50
+Diana,West,Philadelphia,56
+Alice,South,Chicago,41
+Ivy,East,San Diego,45
+Eve,South,Houston,30
+Eve,South,Philadelphia,59
+Hannah,West,New York,28
+Alice,North,Phoenix,28
+Ivy,East,Dallas,69
+Diana,East,Houston,28
+Jack,North,New York,63
+Grace,East,Phoenix,43
+Jack,North,Chicago,46
+Bob,North,Houston,67
+Hannah,West,San Jose,28
+Hannah,West,San Antonio,45
+Diana,West,San Diego,45
+Alice,East,Houston,62
+Hannah,West,Houston,57
+Charlie,South,San Diego,45
+Alice,North,Phoenix,50
+Ivy,West,Phoenix,27
+Eve,West,San Jose,70
+Alice,South,Dallas,68
+Bob,North,Philadelphia,51
+Bob,North,Houston,22
+Charlie,West,San Antonio,57
+Grace,South,Philadelphia,55
+Jack,West,Los Angeles,60
+Grace,South,San Antonio,41
+Eve,East,San Diego,31
+Frank,West,Philadelphia,69
+Diana,South,Chicago,23
+Ivy,North,San Diego,45
+Bob,North,Los Angeles,19
+Eve,East,Chicago,61
+Eve,South,San Diego,19
+Grace,West,Philadelphia,41
+Diana,West,Los Angeles,39
+Hannah,West,San Diego,34
+Eve,South,Phoenix,19
+Bob,North,Dallas,35
+Charlie,West,New York,45
+Grace,North,San Diego,50
+Alice,North,San Antonio,48
+Ivy,North,San Jose,44
+Diana,East,Dallas,65
+Frank,North,New York,22
+Diana,North,Dallas,59
+Grace,East,Dallas,40
+Diana,East,Philadelphia,42
+Charlie,West,Los Angeles,66
+Hannah,West,Chicago,32
+Charlie,South,Dallas,54
+Jack,South,Houston,25
+Frank,North,Houston,66
+Frank,South,San Antonio,52
+Jack,East,Dallas,60
+Charlie,North,San Diego,33
+Ivy,North,San Diego,31
+Frank,North,Phoenix,55
+Frank,South,San Antonio,38
+Grace,West,Dallas,64
+Frank,East,San Jose,63
+Grace,West,San Jose,38
+Hannah,North,Houston,65
+Alice,North,Phoenix,50
+Hannah,South,San Jose,66
+Jack,South,Chicago,60
+Hannah,West,Philadelphia,41
+Jack,North,Dallas,19
+Charlie,East,Phoenix,61
+Bob,East,Chicago,40
+Ivy,North,Houston,70
+Charlie,North,San Jose,34
+Bob,East,San Diego,65
+Jack,South,Houston,66
+Bob,North,Chicago,64
+Hannah,East,Philadelphia,41
+Diana,North,San Diego,51
+Bob,South,San Antonio,24
+Hannah,East,New York,36
+Diana,South,Phoenix,33
+Grace,East,San Diego,61
+Grace,South,Los Angeles,57
+Jack,East,San Antonio,20
+Eve,West,Chicago,68
+Jack,West,Phoenix,33
+Charlie,West,New York,55
+Hannah,West,New York,51
+Eve,West,Houston,52
+Diana,North,New York,18
+Ivy,North,New York,70
+Grace,South,Chicago,20
+Jack,West,San Jose,39
+Jack,South,San Antonio,55
+Diana,West,Houston,63
+Alice,East,San Diego,52
+Hannah,East,San Antonio,19
+Alice,West,Los Angeles,50
+Alice,West,Phoenix,52
+Alice,North,San Antonio,50
+Bob,South,Dallas,59
+Bob,East,Dallas,19
+Frank,East,Dallas,25
+Bob,West,San Diego,50
+Frank,East,Houston,68
+Frank,North,San Antonio,47
+Jack,North,Los Angeles,45
+Hannah,West,Phoenix,69
+Charlie,North,San Diego,33
+Grace,South,San Jose,27
+Bob,South,Los Angeles,37
+Jack,North,San Diego,63
+Hannah,East,Phoenix,22
+Eve,West,San Antonio,29
+Ivy,North,San Diego,45
+Eve,South,Philadelphia,59
+Diana,East,Los Angeles,67
+Grace,East,Phoenix,38
+Grace,East,Chicago,19
+Alice,South,San Jose,26
+Grace,East,Phoenix,39
+Jack,West,Los Angeles,60
+Jack,North,Chicago,46
+Frank,South,Houston,54
+Alice,North,San Antonio,25
+Eve,North,Phoenix,24
+Ivy,North,San Antonio,21
+Hannah,South,Chicago,18
+Alice,South,Philadelphia,58
+Diana,East,San Antonio,62
+Charlie,North,San Diego,56
+Diana,South,Los Angeles,64
+Eve,North,Phoenix,58
+Hannah,South,New York,50
+Jack,South,San Jose,37
+Alice,North,Houston,68
+Grace,West,San Antonio,47
+Charlie,East,San Jose,49
+Charlie,East,San Antonio,43
+Frank,East,Chicago,49
+Bob,North,Dallas,35
+Alice,South,Houston,61
+Bob,East,San Antonio,64
+Ivy,East,Dallas,69
+Eve,West,Chicago,22
+Jack,East,Philadelphia,19
+Diana,North,New York,28
+Eve,West,Phoenix,54
+Alice,North,Philadelphia,22
+Hannah,North,Philadelphia,48
+Eve,North,New York,28
+Ivy,West,Chicago,59
+Ivy,North,Dallas,52
+Hannah,North,Dallas,66
+Grace,South,Houston,27
+Jack,West,San Jose,30
+Hannah,West,New York,28
+Alice,West,Chicago,26
+Frank,South,New York,32
+Bob,North,San Antonio,20
+Diana,West,Los Angeles,39
+Eve,West,San Jose,49
+Grace,North,New York,69
+Diana,East,Houston,28
+Eve,West,San Antonio,27
+Ivy,North,San Antonio,65
+Hannah,South,Philadelphia,57
+Charlie,East,San Jose,68
+Alice,East,Dallas,54
+Ivy,South,Los Angeles,49
+Jack,West,San Jose,69
+Hannah,North,Philadelphia,23
+Bob,North,San Jose,47
+Hannah,West,Houston,41
+Alice,North,San Antonio,48
+Bob,North,San Antonio,33
+Grace,East,Dallas,61
+Bob,North,Los Angeles,23
+Bob,South,Chicago,63
+Frank,West,San Jose,26
+Jack,West,Los Angeles,67
+Frank,South,Chicago,29
+Diana,East,Chicago,31
+Grace,East,Philadelphia,22
+Grace,West,San Antonio,31
+Eve,South,Los Angeles,57
+Eve,North,Phoenix,58
+Ivy,South,Los Angeles,35
+Bob,North,Houston,62
+Diana,West,Dallas,47
+Ivy,South,Houston,23
+Bob,South,Philadelphia,25
+Alice,South,San Antonio,28
+Bob,North,Dallas,31
+Bob,West,Chicago,61
+Bob,North,Dallas,24
+Alice,West,San Jose,24
+Alice,North,Dallas,67
+Ivy,East,New York,60
+Diana,West,San Diego,45
+Bob,West,Philadelphia,43
+Frank,North,Chicago,25
+Eve,North,San Antonio,69
+Jack,West,Dallas,31
+Bob,North,Phoenix,67
+Ivy,East,San Diego,51
+Grace,South,San Jose,53
+Jack,North,New York,63
+Eve,West,San Diego,56
+Eve,West,Chicago,55
+Eve,South,San Diego,58
+Ivy,North,San Diego,31
+Diana,West,San Jose,70
+Eve,West,Dallas,51
+Eve,West,New York,65
+Bob,West,Houston,51
+Frank,North,Chicago,47
+Alice,South,San Diego,33
+Frank,South,Houston,25
+Alice,South,San Jose,68
+Diana,East,Dallas,27
+Charlie,North,Houston,58
+Alice,South,San Jose,52
+Grace,North,Chicago,29
+Grace,West,San Jose,38
+Jack,East,Dallas,60
+Jack,North,San Diego,19
+Diana,West,Philadelphia,56
+Jack,North,Phoenix,25
+Jack,West,Dallas,67
+Eve,North,Phoenix,70
+Charlie,East,Dallas,45
+Eve,West,Houston,23
+Bob,South,New York,36
+Bob,West,San Diego,37
+Bob,East,Houston,42
+Alice,East,Phoenix,57
+Frank,West,Dallas,57
+Ivy,East,Los Angeles,25
+Alice,North,Philadelphia,21
+Diana,East,Dallas,65
+Ivy,West,Phoenix,27
+Charlie,West,New York,45
+Hannah,West,Houston,28
+Grace,East,New York,29
+Eve,West,New York,33
+Diana,South,Phoenix,52
+Bob,South,Dallas,21
+Alice,East,Chicago,49
+Hannah,West,San Antonio,45
+Charlie,South,San Diego,29
+Grace,West,New York,60
+Hannah,West,Phoenix,61
+Alice,North,Chicago,68
+Eve,East,New York,41
+Jack,South,New York,56
+Grace,West,Dallas,64
+Eve,West,Houston,52
+Jack,North,Los Angeles,42
+Alice,East,Houston,62
+Jack,East,San Diego,24
+Charlie,East,New York,49
+Grace,North,Houston,48
+Jack,North,San Antonio,65
+Frank,North,Chicago,25
+Eve,West,Philadelphia,57
+Alice,West,Philadelphia,27
+Jack,South,Los Angeles,34
+Frank,East,Chicago,30
+Hannah,East,Houston,56
+Bob,East,San Diego,34
+Grace,North,Los Angeles,65
+Charlie,West,New York,41
+Eve,East,Phoenix,69
+Charlie,West,San Antonio,57
+Frank,West,New York,34
+Grace,South,Houston,48
+Frank,South,Phoenix,55
+Jack,West,Dallas,34
+Ivy,East,Phoenix,38
+Alice,East,San Jose,25
+Frank,South,Chicago,42
+Grace,East,Chicago,67
+Diana,South,Chicago,23
+Frank,West,San Diego,49
+Ivy,West,Chicago,27
+Diana,East,Houston,33
+Jack,East,San Antonio,28
+Ivy,South,San Antonio,50
+Hannah,West,San Diego,19
+Jack,West,Chicago,33
+Frank,East,Houston,45
+Hannah,West,Philadelphia,36
+Eve,East,Chicago,61
+Alice,South,San Diego,70
+Jack,North,Chicago,35
+Bob,North,Philadelphia,46
+Hannah,North,Chicago,70
+Bob,West,Los Angeles,39
+Eve,West,Phoenix,41
+Bob,North,Los Angeles,19
+Frank,North,New York,57
+Ivy,East,San Antonio,31
+Eve,North,San Antonio,28
+Grace,North,San Jose,51
+Grace,North,Dallas,58
+Charlie,North,Phoenix,57
+Jack,West,Dallas,31
+Frank,West,San Jose,59
+Bob,East,San Jose,56
+Alice,West,Phoenix,39
+Hannah,East,Philadelphia,37
+Alice,West,San Antonio,34
+Charlie,North,New York,35
+Ivy,South,Los Angeles,36
+Grace,South,Philadelphia,55
+Hannah,South,Philadelphia,24
+Bob,West,Chicago,54
+Jack,South,San Diego,33
+Ivy,West,Philadelphia,34
+Charlie,North,Philadelphia,20
+Diana,North,San Diego,45
+Bob,North,San Jose,28
+Bob,North,Chicago,32
+Hannah,East,Dallas,28
+Grace,South,New York,64
+Eve,East,New York,64
+Hannah,West,New York,35
+Frank,South,Los Angeles,50
+Frank,South,San Jose,45
+Frank,South,Dallas,21
+Hannah,North,San Jose,25
+Eve,West,New York,51
+Eve,South,New York,57
+Ivy,West,Dallas,21
+Jack,North,San Diego,38
+Ivy,East,New York,51
+Jack,South,New York,67
+Hannah,West,San Diego,34
+Hannah,South,Houston,26
+Charlie,West,Los Angeles,66
+Diana,South,Chicago,70
+Bob,West,Phoenix,61
+Charlie,West,New York,66
+Frank,East,Philadelphia,48
+Diana,East,San Diego,66
+Charlie,West,San Jose,69
+Frank,West,Philadelphia,69
+Hannah,West,San Diego,56
+Grace,North,San Diego,50
+Ivy,South,Los Angeles,45
+Diana,North,Los Angeles,56
+Grace,West,San Antonio,22
+Frank,South,Phoenix,51
+Bob,North,Phoenix,30
+Jack,East,Philadelphia,54
+Jack,West,San Antonio,24
+Hannah,West,New York,20
+Ivy,South,San Jose,26
+Hannah,South,San Diego,38
+Charlie,South,Dallas,30
+Frank,South,Phoenix,24
+Ivy,South,Los Angeles,35
+Grace,East,Houston,57
+Grace,North,Philadelphia,38
+Grace,West,Philadelphia,41
+Jack,South,Houston,25
+Eve,South,Houston,45
+Diana,West,Dallas,19
+Grace,West,San Jose,42
+Jack,North,New York,24
+Frank,North,San Antonio,36
+Grace,North,Houston,50
+Alice,North,Chicago,35
+Grace,West,Phoenix,25
+Bob,West,Philadelphia,24
+Eve,North,New York,63
+Hannah,South,Dallas,26
+Alice,South,Los Angeles,57
+Charlie,West,San Diego,64
+Frank,West,Dallas,54
+Diana,South,Houston,38
+Diana,East,Houston,46
+Bob,North,Philadelphia,51
+Hannah,West,Phoenix,58
+Hannah,West,San Antonio,67
+Ivy,South,Houston,55
+Hannah,West,Houston,32
+Frank,South,Dallas,59
+Ivy,West,Philadelphia,63
+Ivy,South,San Jose,26
+Grace,South,San Diego,28
+Frank,East,San Jose,63
+Charlie,North,San Jose,21
+Alice,North,Phoenix,28
+Alice,West,San Diego,68
+Eve,South,Chicago,38
+Hannah,West,Houston,57
+Diana,West,Philadelphia,63
+Bob,South,San Diego,66
+Alice,West,San Jose,24
+Frank,South,San Antonio,52
+Eve,West,Houston,33
+Frank,North,New York,22
+Eve,South,Phoenix,19
+Ivy,East,Chicago,33
+Diana,West,San Antonio,57
+Alice,South,Chicago,41
+Grace,North,Phoenix,48
+Frank,West,New York,66
+Ivy,East,Philadelphia,30
+Jack,North,New York,40
+Diana,South,Philadelphia,61
+Ivy,East,Chicago,31
+Diana,North,Dallas,39
+Diana,West,Dallas,49
+Grace,North,San Antonio,53
+Grace,South,Chicago,62
+Grace,West,Phoenix,25
+Charlie,North,San Antonio,51
+Hannah,West,Dallas,57
+Charlie,North,Chicago,21
+Grace,South,Houston,65
+Bob,West,Philadelphia,38
+Diana,East,Houston,22
+Grace,West,Chicago,62
+Hannah,North,New York,49
+Diana,East,Philadelphia,42
+Eve,South,Houston,30
+Hannah,North,San Antonio,34
+Eve,East,Philadelphia,42
+Grace,North,San Diego,35
+Eve,West,San Diego,30
+Eve,West,San Diego,65
+Charlie,West,New York,39
+Alice,South,Chicago,33
+Hannah,East,San Jose,58
+Eve,East,San Diego,31
+Diana,North,San Jose,27
+Frank,West,San Jose,60
+Alice,South,Philadelphia,48
+Grace,North,Los Angeles,33
+Frank,South,Los Angeles,35
+Grace,South,New York,48
+Eve,South,Dallas,28
+Hannah,West,San Antonio,62
+Frank,South,Houston,20
+Eve,South,New York,70
+Diana,East,New York,44
+Eve,North,San Diego,29
+Charlie,South,San Antonio,29
+Diana,West,San Diego,45
+Diana,North,San Antonio,37
+Grace,East,Chicago,34
+Jack,West,Dallas,24
+Hannah,North,Los Angeles,36
+Charlie,South,San Diego,45
+Alice,South,Chicago,36
+Ivy,East,Philadelphia,53
+Hannah,South,Philadelphia,40
+Charlie,West,Houston,30
+Diana,North,New York,49
+Alice,West,San Antonio,35
+Charlie,East,San Diego,46
+Alice,West,Philadelphia,58
+Charlie,East,Dallas,28
+Diana,West,Phoenix,59
+Ivy,North,San Diego,66
+Ivy,East,San Diego,29
+Grace,East,Philadelphia,68
+Jack,West,New York,44
+Bob,North,Phoenix,57
+Frank,South,Dallas,58
+Grace,East,Dallas,61
+Bob,North,Houston,67
+Ivy,South,Phoenix,30
+Hannah,West,New York,53
+Eve,South,Chicago,34
+Jack,East,San Antonio,53
+Hannah,West,Chicago,20
+Jack,North,Houston,48
+Hannah,South,Philadelphia,40
+Grace,South,San Antonio,41
+Hannah,South,San Diego,58
+Ivy,North,San Antonio,25
+Diana,West,Los Angeles,40
+Charlie,South,Dallas,54
+Diana,South,Philadelphia,35
+Ivy,North,San Jose,44
+Eve,South,Dallas,58
+Ivy,West,San Antonio,34
+Ivy,West,New York,68
+Bob,North,Houston,22
+Eve,East,San Antonio,53
+Charlie,South,Chicago,33
+Alice,North,Los Angeles,68
+Ivy,East,San Diego,45
+Grace,North,Philadelphia,53
+Ivy,East,Houston,57
+Diana,East,New York,34
+Eve,East,San Antonio,19
+Frank,West,Houston,70
+Charlie,East,San Jose,32
+Hannah,East,San Diego,59
+Grace,West,Los Angeles,37
+Diana,South,San Diego,38
+Grace,North,Chicago,69
+Grace,South,New York,34
+Hannah,East,Philadelphia,45
+Jack,East,San Antonio,42
+Charlie,West,New York,34
+Hannah,South,New York,31
+Frank,South,Philadelphia,54
+Grace,North,San Antonio,29
+Diana,North,Dallas,59
+Hannah,East,Dallas,55
+Charlie,South,San Jose,20
+Alice,East,Los Angeles,66
+Bob,East,San Jose,50
+Alice,East,San Jose,28
+Charlie,North,Phoenix,53
+Diana,East,San Diego,65
+Jack,West,Chicago,55
+Eve,West,Phoenix,47
+Jack,West,Phoenix,45
+Ivy,South,Houston,55
+Bob,East,San Diego,56
+Hannah,East,Dallas,62
+Charlie,North,San Diego,42
+Charlie,North,San Diego,56
+Ivy,West,San Antonio,31
+Ivy,East,Dallas,47
+Charlie,East,Houston,68
+Jack,North,New York,63
+Charlie,North,Los Angeles,34
+Charlie,North,San Jose,44
+Diana,West,Houston,40
+Eve,North,Philadelphia,25
+Alice,West,Chicago,20
+Eve,East,Los Angeles,32
+Diana,West,Philadelphia,23
+Frank,South,San Antonio,38
+Hannah,North,San Antonio,60
+Hannah,West,Chicago,32
+Diana,West,Chicago,58
+Ivy,West,Houston,57
+Frank,North,New York,41
+Grace,North,San Diego,50
+Jack,East,Philadelphia,49
+Charlie,East,New York,26
+Charlie,South,San Jose,39
+Frank,East,New York,59
+Frank,North,Chicago,30
+Grace,East,New York,57
+Diana,North,Dallas,50
+Eve,South,New York,37
+Eve,East,Chicago,61
+Grace,East,Phoenix,43
+Hannah,West,San Diego,37
+Charlie,East,Dallas,43
+Alice,North,New York,35
+Hannah,West,San Diego,30
+Hannah,West,Los Angeles,55
+Grace,West,San Antonio,29
+Frank,West,San Diego,26
+Eve,South,Los Angeles,39
+Charlie,North,Los Angeles,63
+Charlie,East,New York,39
+Frank,North,Phoenix,55
+Grace,East,San Jose,60
+Jack,West,Los Angeles,50
+Alice,North,New York,70
+Diana,South,San Antonio,33
+Diana,West,Chicago,26
+Grace,North,Phoenix,35
+Alice,East,Los Angeles,41
+Grace,East,Dallas,40
+Jack,East,Los Angeles,30
+Grace,South,Chicago,22
+Jack,South,Los Angeles,55
+Eve,West,Phoenix,54
+Charlie,North,Dallas,45
+Bob,West,New York,36
+Hannah,West,San Jose,28
+Hannah,North,Philadelphia,36
+Charlie,East,Los Angeles,51
+Ivy,North,San Jose,20
+Grace,South,Chicago,30
+Diana,East,Chicago,32
+Eve,South,San Antonio,39
+Alice,South,Dallas,68
