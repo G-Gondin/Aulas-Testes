@@ -1,8 +1,17 @@
 from random import shuffle
 from lutv import cor
 from luti import *
-cartas = [
-    {"carta": "2", "peso": 1, "naip": "♦️"},
+from time import sleep
+
+fases = """[1] Pagar
+[2] Aumentar
+[3] Vender
+[4] Mesa"""
+
+
+
+
+cartas = [    {"carta": "2", "peso": 1, "naip": "♦️"},
     {"carta": "3", "peso": 2, "naip": "♦️"},
     {"carta": "4", "peso": 3, "naip": "♦️"},
     {"carta": "5", "peso": 4, "naip": "♦️"},
@@ -60,13 +69,14 @@ cartas = [
 
 shuffle(cartas)
 shuffle(cartas)
-
 jogador1 = []
 jogador2 = []
 jogador3 = []
 jogador4 = []
 comunitaria = []
 
+
+#distribuição das cartas
 for c in range(0,2):
     jogador1.append(cartas[0])
     cartas.remove(cartas[0])    
@@ -84,34 +94,24 @@ cartas.remove(cartas[0])
 comunitaria.append(cartas[0])
 cartas.remove(cartas[0])
 comunitaria.append(cartas[0])
-cartas.remove(cartas[0])
 
 #turn
 cartas.remove(cartas[0])
 comunitaria.append(cartas[0])
-cartas.remove(cartas[0])
 
 #river
 cartas.remove(cartas[0])
 comunitaria.append(cartas[0])
 
 
-
-print(f"""jogador 1: {cor(jogador1, "verde")}
-
-jogador 2: {cor(jogador2, "vermelho")}
-
-jogador 3: {cor(jogador3, "magenta")}
-
-jogador 4: {cor(jogador4, "azul")}
-""")
-
-
 for c in range(0, len(comunitaria)):
     print(cor(f"{comunitaria[c]}", "ciano"))
 
+print(f"""jogador 1: {cor(jogador1, "verde")}{identmao1(jogador1, comunitaria)}
 
-print(ispar(jogador1, comunitaria))
-print(ispar(jogador2, comunitaria))
-print(ispar(jogador3, comunitaria))
-print(ispar(jogador4, comunitaria))
+jogador 2: {cor(jogador2, "vermelho")}{identmao1(jogador2, comunitaria)}
+
+jogador 3: {cor(jogador3, "magenta")}{identmao1(jogador3, comunitaria)}
+
+jogador 4: {cor(jogador4, "azul")}{identmao1(jogador4, comunitaria)}
+""")
